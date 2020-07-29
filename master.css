@@ -1,0 +1,13 @@
+*{
+  font-family: 'Work Sans', sans-serif;
+  color: #ffffff;
+}
+body{
+  background-color: #000000;
+}
+.introHeadings{
+  text-align: center;
+}
+.introBody{
+  text-align: justify;
+}
